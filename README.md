@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">🏎️ Benvenuto nel mio box</h1>
 
-<!--
-**matteolepera/matteolepera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Qui si costruisce, si testa e si migliora.<br>
+Ogni progetto è un giro in più verso la versione migliore.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏽‍💻 Chi sono
+
+Sviluppatore web full stack orientato alla risoluzione dei problemi.  
+Lavoro su frontend, backend e database con un approccio pratico e orientato al miglioramento continuo.
+
+## ⚙️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mysql,git)](https://skillicons.dev)
+
+## 🚧 Work in progress
+
+Sto attualmente lavorando a nuovi progetti full stack, tra cui:
+
+- 🏎️ Ferrari Project (in sviluppo)
+
+Stay tuned 🚀
+
+## 🏁 Filosofia
+
+Non mi fermo quando funziona.  
+Mi fermo quando funziona meglio.
