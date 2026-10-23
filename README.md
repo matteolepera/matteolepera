@@ -32,7 +32,7 @@ Ho iniziato come sviluppatore nel **web scraping e nell'automazione dati**, dove
 
 ## 🗺️ Missioni
 
-### ⭐ Missione principale — `F******` &nbsp;🔒 *nome top secret*
+### ⭐ Missione principale — `Ferrary` &nbsp;🔓 *nome svelato*
 
 Un archivio tecnico di **tutte le Ferrari mai prodotte**, dalle stradali alla F1 fino ai prototipi.
 Nessuna vendita, nessun prezzo: solo storia, dati e passione, organizzati come si deve.
